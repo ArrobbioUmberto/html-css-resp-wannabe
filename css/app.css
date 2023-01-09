@@ -1,5 +1,6 @@
 /* DESKTOP - FIRST */
 
+
 @media only screen and (max-width: 768px){
 
 .container{
@@ -19,6 +20,6 @@
     }
     .row > .col{
         width: 100%;
-        padding: 30px 65px;
+        padding: 30px 35px;
     }
 }
